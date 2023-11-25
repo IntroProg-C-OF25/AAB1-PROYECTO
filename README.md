@@ -1,6 +1,6 @@
 # APEB1-PROYECTO
 
-Estimado estudiantes, en las propuestas para el proyecto son las siguientes: ![Propuestas de proyecto]([https://github.com/FundComp-C-Oct23-Feb24/TallerGrupal03/blob/main/Algoritmo-9/Figura%20del%20Poligono.png?raw=true](https://github.com/FundComp-C-OF24/APEB1-PROYECTO/blob/main/Micelania%20ejercicios%20Proyecto.pdf)https://github.com/FundComp-C-OF24/APEB1-PROYECTO/blob/main/Micelania%20ejercicios%20Proyecto.pdf). 
+Estimado estudiantes, en las propuestas para el proyecto son las siguientes: ![Propuestas de proyecto](https://github.com/FundComp-C-OF24/APEB1-PROYECTO/blob/main/Micelania%20ejercicios%20Proyecto.pdf). 
 
 De ellas Ud. deberá elegir para el desarrollo únicamente 2, y al ser muchos los grupos, y varias propuestas, la probabilidad de que existan 2 grupos con las mismas propuestas y/o soluciones similares, es muy baja. 
 

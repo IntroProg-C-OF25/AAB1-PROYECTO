@@ -1,4 +1,4 @@
-# APEB1-PROYECTO
+# AAB1-PROYECTO
 
 Estimado estudiantes, en las propuestas para el proyecto son las siguientes: ![Propuestas de proyectos](https://github.com/FundComp-C-OF24/APEB1-PROYECTO/blob/main/Micelania%20ejercicios%20Proyecto.pdf).
 

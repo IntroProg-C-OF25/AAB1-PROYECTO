@@ -11,4 +11,4 @@ Para esta asignatura de FUNDAMENTOS COMPUTACIONALES, los entregables para el pro
 * FLUJOGRAMA: Diseñar la solución en flujograma (DiaUML, Word otros, NO USE PseINT para la entrega final, usará ello solo como verificación, si únicamente adjunta el .psc no será considerado para puntuar).
 * PRUEBA DE ESCRITORIO: Realice y evidencie la prueba de escritorio, que confirme la funcionalidad/resultados correctos de su solución (puede usar papel, excel, word, etc.).
 
-Nota: Documentar adecuadamente estos entregables, ya que los mismo le servirán como insumo para el mismo proyecto en la asignatura de INTRODUCCIÓN A LA PROGRAMACIÓN. 
+*Nota*: Documentar adecuadamente estos entregables, ya que los mismo le servirán como insumo para el mismo proyecto en la asignatura de INTRODUCCIÓN A LA PROGRAMACIÓN. Recordar que los dos integrantes del grupo, deben socializar sus soluciones, ya que en la defensa, el docente elegirá con que solución se evaluara al estudiante. 

@@ -2,7 +2,7 @@
 
 Estimado estudiante, a continuación presentamos las propuestas para el proyecto de fin de 1er.Bim.: ![Propuestas de proyectos](https://github.com/IntroProg-C-OF25/AAB1-PROYECTO/blob/main/Micelania%20ejercicios%20Proyecto.pdf).
 
-De ellas Ud. deberá elegir una, y al ser algunos los grupos, y varias propuestas, la probabilidad de que existan mas de 3 grupos con las mismas propuestas y/o soluciones similares, es muy baja. 
+De ellas Ud. deberá elegir dos, y al ser algunos los grupos, y varias propuestas, la probabilidad de que existan mas de 3 grupos con las mismas propuestas y/o soluciones similares, es muy baja. 
 
 Para esta asignatura de __*INTRODUCCÍON A LA PROGRAMACIÓN*__, los entregables del el proyecto son: 
 
